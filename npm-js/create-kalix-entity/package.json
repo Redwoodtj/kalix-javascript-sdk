@@ -13,7 +13,7 @@
   "dependencies": {
     "mustache": "^4.1.0",
     "scaffold-generator": "^3.0.4",
-    "yargs": "^17.0.1"
+    "yargs": "^17.6.0"
   },
   "bin": {
     "create-kalix-entity": "create-kalix-entity.js"
