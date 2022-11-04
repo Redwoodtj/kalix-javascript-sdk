@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "mustache": "^4.1.0",
-    "scaffold-generator": "^3.0.4",
+    "scaffold-generator": "^3.0.5",
     "yargs": "^17.0.1"
   },
   "bin": {
