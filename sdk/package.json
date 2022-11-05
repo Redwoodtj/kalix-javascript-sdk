@@ -42,7 +42,7 @@
     "node-fetch": "^2.6.7",
     "rimraf": "^2.6.3",
     "tslib": "^2.4.0",
-    "unzipper": "^0.9.15"
+    "unzipper": "^0.10.11"
   },
   "devDependencies": {
     "@types/chai": "^4.3.1",
