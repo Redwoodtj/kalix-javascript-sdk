@@ -1,4 +1,4 @@
-FROM node:16.1-buster
+FROM node:16.18.1-buster
 
 WORKDIR /home
 ADD ./kalix-npm-js kalix-npm-js
