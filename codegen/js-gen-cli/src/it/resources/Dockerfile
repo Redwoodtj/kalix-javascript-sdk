@@ -1,4 +1,4 @@
-FROM node:16.1-buster
+FROM node:gallium
 
 WORKDIR /home
 ADD ./kalix-npm-js kalix-npm-js
