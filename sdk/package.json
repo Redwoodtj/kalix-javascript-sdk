@@ -33,7 +33,7 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "dependencies": {
-    "@grpc/grpc-js": "1.6.7",
+    "@grpc/grpc-js": "1.8.22",
     "@grpc/proto-loader": "0.6.12",
     "debug": "^4.3.1",
     "json-stable-stringify": "^1.0.1",
